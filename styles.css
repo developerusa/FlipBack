@@ -26,13 +26,6 @@ body {
     text-align: center;
     transition: transform 1s;
     transform-style: preserve-3d;
-    
-
-    
-}
-
-.card:hover .card-inner {
-    transform: rotateY(180deg);
 }
 
 .card-front, .card-back {
